@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/conditional-loops_03/conditional-loops_03.iml" filepath="$PROJECT_DIR$/conditional-loops_03/conditional-loops_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first-java_02/first-java_02.iml" filepath="$PROJECT_DIR$/first-java_02/first-java_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functions_04/functions_04.iml" filepath="$PROJECT_DIR$/functions_04/functions_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_dsa_questions.iml" filepath="$PROJECT_DIR$/.idea/java_dsa_questions.iml" />
+    </modules>
+  </component>
+</project>
