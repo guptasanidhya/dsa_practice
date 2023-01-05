@@ -1,4 +1,12 @@
 import java.util.ArrayList;
+/*
+1.get the lhs element from the list
+2.removing the lhs element from the list
+3.now take rhs into consideration and check for each value pair
+4.those who got matched will be printed
+5.after all the iterations on the rhs side the removed element
+ will be placed at the same position from where it was taken
+*/
 
 public class py_triplet_03 {
     public static void main(String[] args) {
@@ -12,8 +20,8 @@ public class py_triplet_03 {
     }
     public static void p_triplet(ArrayList<Integer> arr){
         for(int i=0;i<arr.size();i++){
-            int element=arr.get(i);
-            arr.remove(i);
+            int element=arr.get(i);//getting the first element
+            arr.remove(i);//removing the LHS element
 //            System.out.println(arr);
 //            System.out.println(arr.size());
             for (int j=0;j<arr.size();j++){
