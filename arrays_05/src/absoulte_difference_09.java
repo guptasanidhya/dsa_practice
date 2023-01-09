@@ -10,7 +10,7 @@ public class absoulte_difference_09 {
             ans+=(long)f[val];
             System.out.println(ans+"-------------");
             f[val]++;
-            
+
         }
     }
     }
