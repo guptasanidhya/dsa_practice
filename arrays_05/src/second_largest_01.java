@@ -2,7 +2,8 @@ import java.util.Arrays;
 
 public class second_largest_01 {
     public static void main(String[] args) {
-        int[] arr = {269 ,269 ,269 ,269 ,269 ,269 ,269,183};
+//        int[] arr = {269 ,269 ,269 ,269 ,269 ,269 ,269,183};
+        int[] arr = {0,1,2,1,1,4};
 
        int ans=print_2_largest(arr);
         System.out.println(ans);
