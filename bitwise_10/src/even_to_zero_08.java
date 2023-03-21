@@ -11,6 +11,7 @@ public class even_to_zero_08 {
        }
        for(int i=0;i<q.length();i++){
 
+
        }
     }
 }
