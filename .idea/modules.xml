@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/contest/contest.iml" filepath="$PROJECT_DIR$/contest/contest.iml" />
       <module fileurl="file://$PROJECT_DIR$/first-java_02/first-java_02.iml" filepath="$PROJECT_DIR$/first-java_02/first-java_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/functions_04/functions_04.iml" filepath="$PROJECT_DIR$/functions_04/functions_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashmap_13/hashmap_13.iml" filepath="$PROJECT_DIR$/hashmap_13/hashmap_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashset_12/hashset_12.iml" filepath="$PROJECT_DIR$/hashset_12/hashset_12.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java_dsa_questions.iml" filepath="$PROJECT_DIR$/.idea/java_dsa_questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkedlist_11/linkedlist_11.iml" filepath="$PROJECT_DIR$/linkedlist_11/linkedlist_11.iml" />
       <module fileurl="file://$PROJECT_DIR$/patterns_09/patterns_09.iml" filepath="$PROJECT_DIR$/patterns_09/patterns_09.iml" />
