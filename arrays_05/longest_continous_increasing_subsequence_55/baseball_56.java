@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-class Solution {
+class baseball_56 {
     public static void main(String[] args) {
 //        String arr[]={"5","-2","4","C","D","9","+","+"};
         String arr[]={"1","C"};
